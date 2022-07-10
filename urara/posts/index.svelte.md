@@ -1,11 +1,10 @@
 ---
-title: 'Hello World'
-date: 2021-11-01
-lastmod: 2021-12-12
+title: 'Hello World!'
+date: 2022-07-10
+lastmod: 2021-07-10
 tags:
   - 'Hello World'
   - 'Urara'
-cover: '/hello-world/cover.webp'
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.
